@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #DDUGKY
 Training center locator for DDUGKY
 
@@ -13,3 +14,7 @@ Master Branch is synced with gh-pages. [Tip](http://brettterpstra.com/2012/09/26
 
 
 
+=======
+# testing-rockets
+Just a test
+>>>>>>> 2f3a913001222a4ada836c9f75dcc0f6f72fc6d9
